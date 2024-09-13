@@ -11,6 +11,8 @@
 > 106\. Amount allowed as disbursement on account of use of electronic transmission
 >
 > 107\. Assessments involving the Public Trustee or the Director of Legal Aid
+>
+> 107A. Costs guidelines for District Court cases
 
 ### 102. Basis of assessment <a href="#id-102-basis-of-assessment" id="id-102-basis-of-assessment"></a>
 
@@ -189,3 +191,11 @@ The attention of solicitors is drawn to Rules 2, 10 and 20 and Appendix 1 of Ord
 > (b) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act 1995 where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the assessment and the bill will be assessed in their absence, except that if the assessing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the receiving party and the Director of Legal Aid at a later date.
 
 (4) If solicitor-and-client costs are required to be assessed pursuant to the provisions of the Motor Vehicles (Third-Party Risks and Compensation) Act 1960 and the bill of costs claiming the same is referenced to an earlier party-and-party bill filed pursuant to Practice Direction 103(3)(c), the Public Trustee need not attend the assessment of the bill and the party-and-party and solicitor-and-client costs will be assessed in the absence of the Public Trustee. However, the Public Trustee may attend at the assessment if he so wishes, and shall attend if an express direction is made by the assessing Registrar that he should attend in relation to a particular bill of costs.
+
+### 107A. Costs guidelines for District Court cases
+
+(1) Solicitors making submissions on party-and-party costs (whether at assessment hearings or otherwise) for cases in the District Courts (excluding proceedings under Part 3 of the Protection from Harassment Act 2014 that are heard in any District Court) should have regard to the costs guidelines set out in Appendix H of these Practice Directions (the “Costs Guidelines”).&#x20;
+
+(2) The Costs Guidelines are to serve only as a general guide for party-and-party costs awards in the District Courts. The precise amount of costs awarded remains at the discretion of the Court and the Court may depart from the amounts set out in the Costs Guidelines depending on the circumstances of each case.&#x20;
+
+(3) To avoid doubt, nothing in the Costs Guidelines is intended to guide or influence the charging of solicitor-and-client costs.

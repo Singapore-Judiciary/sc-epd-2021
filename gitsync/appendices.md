@@ -848,7 +848,7 @@ _**Early Neutral Evaluation on liability and quantum**_
 
 The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates’ Courts and the District Courts on or after 1 April 2022 and to cases filed in the General Division of the High Court on or after 1 April 2022 and transferred to the District Courts.
 
-[Appendix D](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix\_D\_v2.pdf)
+[Appendix D](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix\_D\_v3.pdf)
 
 ### APPENDIX E: Protocol for Medical Negligence Claims <a href="#appendix-e-protocol-for-medical-negligence-claims" id="appendix-e-protocol-for-medical-negligence-claims"></a>
 
@@ -1079,3 +1079,9 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 <figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 1. Please refer to Order 3, Rule 7(2) of the Rules of Court 2021. [↩](appendices.md#3-letter-of-claim-1)
+
+
+
+### APPENDIX H: Guidelines for Party-and-Party Costs Awards in District Court Cases in the State Courts of Singapore
+
+[Appendix H](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix\_H.pdf)
