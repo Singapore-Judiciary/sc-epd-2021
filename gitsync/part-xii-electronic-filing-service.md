@@ -160,6 +160,8 @@ Pursuant to Order 28, Rules 17(4) and 17(6) of the Rules of Court 2021, the Regi
 
 (3) Apart from Requests coming within the description of paragraph (1), all correspondence relating to or in connection with any cause or matter shall be addressed to the Registrar.
 
+(3A) Apart from Requests coming within paragraph (1), all correspondence to the Court relating to or in connection with any pending cause or matter must have a minimum font size of Times New Roman 12 or its equivalent, unless there are good reasons for using a smaller font size.
+
 (4) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
 > > **“DC/OC \[NO. 12345/2021]** (if originating claim) **Between AB** (and **ANOR** or **ORS**, if there are 2 or more claimants, as the case may be) and **CD** (and **ANOR** or **ORS**, if there are 2 or more defendants, as the case may be)”

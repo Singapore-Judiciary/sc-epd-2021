@@ -14,7 +14,7 @@
 
 [Form 6 : Court Alternative Dispute Resolution (Court ADR) Form](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%206-v3.pdf)
 
-[Form 7 : Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207.pdf)
+[Form 7 : Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207-v2.pdf)
 
 [Form 8 : Opening Statement for Claimant/Defendant (Mediation/Conciliation)](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%208.pdf)
 
@@ -22,13 +22,13 @@
 
 [Form 10 : Checklist for Assessment of Damages Court Dispute Resolution Case Conferences ("ADCDR CC")](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2010-v2.pdf)
 
-[Form 11 : Quantum Neutral Evaluation Form](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2011.pdf)
+[Form 11 : Quantum Neutral Evaluation Form](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2011-v2.pdf)
 
-[Form 12 : Joint Opening Statement (For Personal Injury Claims)](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2012.pdf)
+[Form 12 : Joint Opening Statement (For Personal Injury Claims)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2012-v2.pdf)
 
-[Form 13 : Joint Opening Statement (For Non-Injury Motor Accident Claims)](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2013.pdf)
+[Form 13 : Joint Opening Statement (For Non-Injury Motor Accident Claims)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2013-v2.pdf)
 
-[Form 14 : Joint Opening Statement (For General Claims excluding Personal Injury and Non-Injury Motor Accident claims)](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2014.pdf)
+[Form 14 : Joint Opening Statement (For General Claims excluding Personal Injury and Non-Injury Motor Accident claims)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2014-v2.pdf)
 
 [Form 14A : Request for Permission to File Application](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2014A.pdf)
 
@@ -776,7 +776,7 @@ Form 89 : \[Deleted]
 >
 > (c) Where a party is relying on the factual account of any witness in support of his case, a signed statement or affidavit of evidence-in-chief should be procured from that witness and submitted to the Court at the first CDR CC to enable the Court to be fully apprised of all the relevant evidence.
 >
-> (d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or judgment on liability has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
+> (d) Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at the CDR CC for a consistent outcome on liability. If an ENE on liability has been given or interlocutory judgment has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
 >
 > (e) Third party proceedings, if any, should be commenced before the first CDR CC.
 
@@ -816,7 +816,7 @@ _**Early Neutral Evaluation on liability and quantum**_
 
 6.7 Solicitors for all the parties seeking an ENE on liability in PIMA and NIMA claims must prepare a submission with relevant supporting documents for the first CDR CC. Except in cases where no corresponding scenario is provided for in the _Motor Accident Claims Online, Motor Accident Guide_ and/or other similar guide solicitors must specify in their submissions the scenario(s) that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
 
-6.8 In respect of personal injury claims, whether or not an ENE on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an ENE on quantum. Solicitors requesting for an ENE on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (_ie_, [Form 11](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2011.pdf)) of Appendix A1 to these Practice Directions) to the Court.
+6.8 In respect of personal injury claims, whether or not an ENE on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an ENE on quantum. Solicitors requesting for an ENE on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (_ie_, [Form 11](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2011-v2.pdf)) of Appendix A1 to these Practice Directions) to the Court.
 
 **7. Help and co-operation of insurers in facilitating CDR**
 
@@ -838,9 +838,9 @@ _**Early Neutral Evaluation on liability and quantum**_
 
 8.1 Solicitors must inform their clients of the outcome of a CDR CC and render their advice expeditiously on the ENE on liability and/or quantum given by the Court. To facilitate settlement, solicitors should obtain their clients’ instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR CC date. Reasons shall be given by parties for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients’ mandate at the next CDR CC.
 
-8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is _contingent_ on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing a _Judgment on Liability_ to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
+8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is _contingent_ on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an _interlocutory judgment for damages to be assessed_ to be recorded and proceed for assessment of damages. A hearing to assess damages is generally less costly than a full trial.
 
-8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
+8.3 If parties enter into an interlocutory judgment for damages to be assessed, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
 
 8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference (“PNN CC”) will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a “documents-only” basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
 
@@ -848,7 +848,7 @@ _**Early Neutral Evaluation on liability and quantum**_
 
 The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in cases filed in the Magistrates’ Courts and the District Courts on or after 1 April 2022 and to cases filed in the General Division of the High Court on or after 1 April 2022 and transferred to the District Courts.
 
-[Appendix D](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix\_D\_v3.pdf)
+[Appendix D](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix_D_v3.pdf)
 
 ### APPENDIX E: Protocol for Medical Negligence Claims <a href="#appendix-e-protocol-for-medical-negligence-claims" id="appendix-e-protocol-for-medical-negligence-claims"></a>
 
@@ -924,7 +924,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 6.1 For all medical negligence cases that are filed in Court, the Court will convene the first Court Dispute Resolution Case Conference (“CDR CC”) under Order 9 of the Rules of Court 2021 within 6 weeks after the filing of the notice of intention to contest.
 
-6.2 At the first CDR CC, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of Court ADR under the prevailing framework. Solicitors for all parties seeking an early neutral evaluation on liability must file submissions as directed by the Court at the CDR CC. Whether or not an evaluation on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an evaluation on quantum. Solicitors requesting for an evaluation on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (_ie_, [Form 11](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions) to the Court.
+6.2 At the first CDR CC, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of Court ADR under the prevailing framework. Solicitors for all parties seeking an early neutral evaluation on liability must file submissions as directed by the Court at the CDR CC. Whether or not an evaluation on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an evaluation on quantum. Solicitors requesting for an evaluation on quantum must obtain each other’s consent before the CDR CC, and submit the duly completed Quantum Neutral Evaluation Form (_ie_, [Form 11](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2011-v2.pdf) of Appendix A1 to these Practice Directions) to the Court.
 
 6.3 No directions for production of documents will be given as most documents would have been produced at the pre-action stage and in the pleadings. However, parties may apply for a broader scope of discovery as provided for under the Rules of Court 2021.
 
@@ -1056,10 +1056,6 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 8.2 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.
 
-8.3 If parties enter into a judgment on liability, an assessment of damages case conference will be called and the procedure set out in Practice Direction 45 shall apply.
-
-8.4 If parties are not able to reach an amicable resolution, a Personal Injury, NIMA or Negligence Case Conference (“PNN CC”) will be fixed around 7 weeks after the last CDR CC. A PNN CC Notice will be issued to the claimant and any other party who has filed a notice of intention to contest and/or Defence, notifying parties that the case has been identified for a PNN CC, of the date of the first PNN CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards trial. A PNN CC will be conducted on a “documents-only” basis, unless otherwise directed by the Court. Subject to the necessary modifications, the directions applicable to the conduct of General Process CCs stated at Practice Direction 37(3) to 37(7) and 37(10) to 37(12) apply to the conduct of PNN CCs.
-
 ### APPENDIX G: Uploading Redacted Charges Under Practice Direction 124 <a href="#appendix-g-uploading-redacted-charges-under-practice-direction-124" id="appendix-g-uploading-redacted-charges-under-practice-direction-124"></a>
 
 **ILLUSTRATION I - Uploading a copy of a redacted charge into the ICMS**
@@ -1084,4 +1080,4 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
 ### APPENDIX H: Guidelines for Party-and-Party Costs Awards in District Court Cases in the State Courts of Singapore
 
-[Appendix H](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix\_H.pdf)
+[Appendix H](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix_H.pdf)

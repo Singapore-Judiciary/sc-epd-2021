@@ -38,7 +38,7 @@
 > * Subsequent CDR CCs
 > * Request for adjournment of CDR CC
 > * Sanction for absence of parties
-> * Recording of terms of settlement agreement, consent judgment on liability or consent judgment
+> * Recording of terms of settlement agreement, consent judgment or consent judgment
 > * Benchmark rates for cost of rental and loss of use
 >
 > 40\. Medical Negligence Claims
@@ -49,7 +49,7 @@
 > * Subsequent CDR CCs
 > * Request for adjournment of CDR CC
 > * Sanction for absence of parties
-> * Recording of terms of settlement agreement, consent judgment on liability or consent judgment
+> * Recording of terms of settlement agreement, consent judgment or consent judgment
 >
 > 41\. Claims in negligence (excluding medical negligence, personal injury and non-injury motor accident (“NIMA”) claims)
 >
@@ -58,7 +58,7 @@
 > * Subsequent CDR CCs&#x20;
 > * Request for adjournment of CDR CC
 > * Sanction for absence of parties
-> * Recording of terms of settlement agreement, consent judgment on liability or consent judgment
+> * Recording of terms of settlement agreement, consent judgment or consent judgment
 >
 > 42\. Mediation
 >
@@ -176,11 +176,7 @@ _**Scope of the SMCL Process**_
 
 (2A) In addition to paragraph (2) above, civil claims in the following categories are also included in the SMCL:
 
-> (a) District Court cases concerning:
->
-> > (i) representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and
-> >
-> > (ii) defamation actions; and
+> (a) District Court cases concerning representative proceedings under Order 4, Rule 6 of the Rules of Court 2021; and
 >
 > (b) any case deemed suitable for the SMCL at the discretion of the Court or on the application of parties.
 
@@ -196,11 +192,7 @@ _**First SMCL CC**_
 > >
 > > (ii) a list of directions sought, including the timeframe for each direction.
 >
-> (c) The SMCL Notice may also include further directions from the Court, for example:
->
-> > (i) For construction disputes, parties will be directed to provide a Scott Schedule setting out the respective parties’ positions on each item of claim.
-> >
-> > (ii) For defamation actions, parties will be directed to state whether the Pre-Action Protocol for Defamation Actions has been complied with and if not, the outstanding steps to be taken.
+> (c) The SMCL Notice may also include further directions from the Court, for example, for construction disputes, parties will be directed to provide a Scott Schedule setting out the respective parties’ positions on each item of claim.
 >
 > (d) Where both parties are represented, a SMCL CC will be fixed to be conducted on a “documents-only” basis. Where at least one party is unrepresented, a physical SMCL CC will be fixed.
 
@@ -234,7 +226,7 @@ _**General provisions for procedure of SMCL CCs**_
 
 (14) All updates and requests for directions by the parties, as well as directions given by the Court, shall be communicated to and by the Court through the Electronic Filing Service, unless the Court determines that it is necessary for the parties or their counsel to attend Court for such directions to be dealt with.
 
-(15) If judgment is entered on liability for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(15) If interlocutory judgment is entered for damages to be assessed, a further SMCL CC will be fixed around 3 weeks after the date judgment is entered. A fresh SMCL CC Notice will be issued to the claimant and any party against whom the interlocutory judgment has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 ### 36. Civil Simplified Process <a href="#id-36-simplified-process-under-order-65-of-the-rules-of-court-2021" id="id-36-simplified-process-under-order-65-of-the-rules-of-court-2021"></a>
 
@@ -336,7 +328,7 @@ _**General provisions for Civil Simplified CCs**_
 
 (16) The Court will consider, at each Civil Simplified CC, all available options in the case jointly with the parties. Accordingly, at any Civil Simplified CC where the attendance of parties is required, the solicitor in charge of the case for that party (ie, the solicitor who has actual conduct of the case for that party and who is familiar with it) shall attend the Civil Simplified CC. Solicitors for both parties shall attend the Civil Simplified CC.
 
-(17) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(17) If interlocutory judgment is entered for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and any party against whom the interlocutory judgment has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 ### 37. General Process <a href="#id-37-general-process" id="id-37-general-process"></a>
 
@@ -364,7 +356,7 @@ _**General Process CCs and SAPT**_
 
 (7) Where the action is not disposed of by the Court or settled or otherwise resolved through the actions of the parties, the Court will at an appropriate stage give directions for the matter to be set down for trial. If the matter is set down by the date fixed by the Court, the matter will be fixed for Pre-Trial CC and the further General Process CC will be vacated. Where the matter has been set down, parties should seek extended timelines and/or permission to file any further applications at the Pre-Trial CC or from the trial judge if one has been allocated.
 
-(8) If judgment is entered on liability for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(8) If interlocutory judgment is entered for damages to be assessed, an Assessment of Damages CC will be fixed around 3 weeks after the date judgment is entered. A CC Notice will be issued to the claimant and the parties against whom the interlocutory judgment has been entered (if that party has filed a notice of intention to contest and/or Defence) notifying parties of the date of the CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 _**General provisions for General Process CCs**_
 
@@ -486,9 +478,9 @@ _**Sanction for absence of parties**_
 
 (16) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.
 
-_**Recording of terms of settlement agreement, consent judgment on liability or consent judgment**_
+_**Recording of terms of settlement agreement, consent interlocutory judgment or consent final judgment**_
 
-(17) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
+(17) If the parties reach agreement on the issue of liability for the claim and/or quantum of damages, or on any other issue(s) on which consent interlocutory judgment can be entered, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207-v2.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent final judgment as the case may be.
 
 _**Benchmark rates for cost of rental and loss of use**_
 
@@ -536,9 +528,9 @@ _**Sanction for absence of parties**_
 
 (10) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.
 
-_**Recording of terms of settlement agreement, consent judgment on liability or consent judgment**_
+_**Recording of terms of settlement agreement, consent interlocutory judgment or consent final judgment**_
 
-(11) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
+(11) If the parties reach agreement on the issue of liability for the claim and/or quantum of damages, or on any other issue(s) on which consent interlocutory judgment can be entered, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207-v2.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent final judgment as the case may be.
 
 ### 41. Claims in negligence (excluding medical negligence, personal injury and non-injury motor accident (“NIMA”) claims) <a href="#id-41-claims-in-negligence-excluding-medical-negligence-personal-injury-and-non-injury-motor-accident-n" id="id-41-claims-in-negligence-excluding-medical-negligence-personal-injury-and-non-injury-motor-accident-n"></a>
 
@@ -570,9 +562,9 @@ _**Sanction for absence of parties**_
 
 (9) Where no party attends the CDR CC, or if the claimant is absent, the Court may exercise its powers under Order 9, Rule 4(1) of the Rules of Court 2021 to dismiss the action.
 
-_**Recording of terms of settlement agreement, consent judgment on liability or consent judgment**_
+_**Recording of terms of settlement agreement, consent interlocutory judgment or consent final judgment**_
 
-(10) If the parties reach agreement on the issue of liability for the claim or quantum of damages or both, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent judgment on liability or consent judgment as the case may be.
+(10) If the parties reach agreement on the issue of liability for the claim and/or quantum of damages, or on any other issue(s) on which consent interlocutory judgment can be entered, they must submit [Form 7](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%207-v2.pdf) of Appendix A1 to these Practice Directions to the Court to record the terms of settlement agreement or to enter a consent interlocutory judgment or consent final judgment as the case may be.
 
 ### 42. Mediation
 
@@ -668,13 +660,13 @@ _**Procedure in Neutral Evaluation**_
 
 _**Convening of Assessment of Damages Case Conference**_
 
-(1) This Practice Direction applies where a case is bifurcated, and the Court gives judgment on liability and for damages to be assessed or the taking of accounts. References to the “assessment phase” of the proceedings and to an “Assessment of Damages” hearing should be read as including the proceedings leading up to the taking of accounts and the hearing for the taking of accounts respectively.
+(1) This Practice Direction applies where a case is bifurcated, and the Court gives interlocutory judgment and for damages to be assessed or the taking of accounts. References to the “assessment phase” of the proceedings and to an “Assessment of Damages” hearing should be read as including the proceedings leading up to the taking of accounts and the hearing for the taking of accounts respectively.
 
-(1A) Where judgment on liability is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (“**Assessment CC**”) will be fixed around 3 weeks after the date on which judgment on liability is entered. An Assessment CC Notice will be issued to the claimant and any party against whom judgment on liability has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
+(1A) Where interlocutory judgment is entered in any action in the State Courts, in which bifurcation was ordered, for damages to be assessed or for the taking of accounts, an Assessment of Damages Case Conference (**“Assessment CC”**) will be fixed around 3 weeks after the date on which interlocutory judgment is entered. An Assessment CC Notice will be issued to the claimant and any party against whom interlocutory judgment has been entered (if that party has filed a notice of intention to contest and/or Defence), notifying parties of the date of the Assessment CC, and directing parties to file the necessary documents and take the necessary steps within a prescribed time for directions to be given to move the matter towards settlement or an Assessment of Damages hearing.
 
 (2) The parties are to inform the Court at the Assessment CC (or in accordance with the Court’s directions) whether they intend to file any interlocutory application(s) in the assessment phase.
 
-(2A) Pursuant to Order 15, Rule 15(4) read with Order 9, Rule 25(9) and Order 9, Rule 25(12) of the Rules of Court 2021, the party entitled to the benefit of the judgment on liability must file and serve an application for directions. The party must include all interlocutory application(s) he or she intends to make in the assessment phase in the application for directions, which must deal with all matters that are necessary for the case to proceed expeditiously in the assessment phase.
+(2A) The party entitled to the benefit of the interlocutory judgment must file and serve an application for directions. The party must include all interlocutory application(s) he or she intends to make in the assessment phase in the application for directions, which must deal with all matters that are necessary for the case to proceed expeditiously in the assessment phase.
 
 (2B) Where any other party intends to file any interlocutory application(s), he or she must also file and serve an application for directions including all the interlocutory application(s) he or she intends to make in the assessment phase.
 
@@ -728,7 +720,7 @@ _**Conduct of ADCDR CCs**_
 
 (10) At the first ADCDR CC, all parties should be in a position to assess the relative merits of their cases to facilitate a settlement with all relevant information at their disposal.
 
-(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR CC, the Quantum Neutral Evaluation Form in [Form 11](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2011.pdf) of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020.
+(11) For matters falling within Practice Direction 45(9), parties are to submit to the Court, before the first ADCDR CC, the Quantum Neutral Evaluation Form in [Form 11](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2011-v2.pdf) of Appendix A1 to these Practice Directions for neutral evaluation of such heads of claim in accordance with Registrar’s Circular No. 13 of 2020.
 
 (12) Upon submission of a duly completed Quantum Neutral Evaluation Form, the Court will proceed on the hearing date to —
 
@@ -778,11 +770,11 @@ _**Fixing of Assessment of Damages Hearings**_
 
 (20) The format to be used for the Joint Opening Statements referred to in sub-paragraph (19)(b) above shall be as follows:
 
-> (a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act 1909) — [Form 12](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2012.pdf) of Appendix A1 to these Practice Directions;
+> (a) Joint Opening Statement for Assessment of Damages for Personal Injury Claims (including loss of dependency claims under section 20 of the Civil Law Act 1909) — [Form 12](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2012-v2.pdf) of Appendix A1 to these Practice Directions;
 >
-> (b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — [Form 13](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2013.pdf) of Appendix A1 to these Practice Directions; and
+> (b) Joint Opening Statement for Assessment of Damages for Non-Injury Motor Accident Claims — [Form 13](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2013-v2.pdf) of Appendix A1 to these Practice Directions; and
 >
-> (c) Joint Opening Statement for Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — [Form 14](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2014.pdf) of Appendix A1 to these Practice Directions.
+> (c) Joint Opening Statement for Assessment of Damages for General Claims excluding Personal Injury and Non-Injury Motor Accident Claims — [Form 14](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2021/master/Forms/Appendix%20A1/Form%2014-v2.pdf) of Appendix A1 to these Practice Directions.
 
 (21) The Forms shall be modified accordingly if there are more than two parties in the proceedings.
 
