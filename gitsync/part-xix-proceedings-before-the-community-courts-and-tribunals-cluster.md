@@ -225,9 +225,9 @@ _**Filing of witness statements**_
 
 > (a) Each witness statement must be typed, either in the form as set out on CJTS or in a form which is identical in substance thereto.
 >
-> (b) In lieu of observing Practice Direction 60(2)(b), the witness statements must:
+> (b) In lieu of observing Practice Direction 60(2)(b) and (c), the witness statements must:
 >
-> > (i) have a blank margin not less than 12.7mm and not more than 38.1mm wide on each side of the page.
+> > (i) have a blank margin not less than 12.7mm and not more than 38.1mm wide on each side of the page; and
 > >
 > > (ii) have line spacing that is between single-spaced and double-spaced.
 >

@@ -91,7 +91,7 @@ _**Request for documents filed in Court**_
 
 ### 60. Form of affidavits <a href="#id-60-form-of-affidavits" id="id-60-form-of-affidavits"></a>
 
-(1) Affidavits must be in [Form 31](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A2/Form%2031.pdf) of Appendix A2 to these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits should comply with the other requirements set out in this Practice Direction.
+(1) Affidavits must be in [Form 31](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A2/Form%2031.pdf) of Appendix A2 to these Practice Directions. In addition to the requirements under Order 15, Rule 19 of the Rules of Court 2021, affidavits must comply with the other requirements set out in this Practice Direction.
 
 _**Affidavits filed electronically**_
 
@@ -99,9 +99,19 @@ _**Affidavits filed electronically**_
 
 > (a) When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 >
-> (b) Affidavits shall have a blank margin of not less than 35mm wide on all four sides of the page. They shall be printed or typed and must be double-spaced.
+> (b) Every page must have a margin on all 4 sides, each of at least 35mm in width.
 >
-> (c) The text of the affidavits (as opposed to the exhibits) must be printed or typed and double-spaced on white paper
+> (c) The text of affidavits (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced.
 >
 > (d) At the top right-hand corner of the first page of every affidavit there shall be typed or printed in a single line the following:
 >
@@ -113,13 +123,15 @@ _**Affidavits filed electronically**_
 > >
 > > (iv) the date the affidavit is filed.
 >
-> (e) Every page of the affidavit (_including_ separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right-hand corner of the page.
+> (e) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right-hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+>
+> (f) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used must be Times New Roman 12 or its equivalent.
 
 (3) Where affidavits are printed in hard copy:
 
 > (a) affidavits shall be printed on A4-ISO of durable quality;
 >
-> (b) affidavits may be printed on one side or both sides of the paper;
+> (b) parties are strongly encouraged to print hard copies on both sides of each page;
 >
 > (c) affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left-hand corner of the paper firmly; and
 >
@@ -154,9 +166,9 @@ _**More than 10 documentary exhibits**_
 
 > (b) exhibits shall be set out in the sequence in which references are made to them in the affidavit.
 
-_Pagination_
+_**Pagination**_
 
-(3) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right-hand corner of each page, following from the page numbers of the affidavit (_ie_, the first page of the exhibits shall take the number following the last sheet of the affidavit’s main text). The page number of the affidavit must correspond to the page number in the Portable Document Format (“**PDF**”) version that is filed through the Electronic Filing Service.
+(3) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right-hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 _**Dividing Sheets**_
 
@@ -184,9 +196,9 @@ _**References to exhibits in other affidavits**_
 
 (7) Where a deponent wishes to refer to documents already exhibited to some other deponent’s affidavit, he must exhibit them to his own affidavit pursuant to Order 15, Rule 27(1) of the Rules of Court 2021.
 
-_Related Documents_
+_**Related Documents**_
 
-(8) Related documents (_eg_, correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+(8) Related documents (_eg_, correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in the manner provided for in paragraph (3) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 _**References to exhibits in text of affidavit**_
 

@@ -808,7 +808,7 @@ _**Hearings (other than trials) and Tribunal / Simplified POHA Proceedings**_
 
 ### 47. Absence of parties and mode of hearing <a href="#id-47-absence-of-parties-and-mode-of-hearing" id="id-47-absence-of-parties-and-mode-of-hearing"></a>
 
-(1) Where an application has been struck off by reason of any party being absent, the Court may direct that the matter be restored by way of summons.
+(1) \[Deleted]
 
 (2) Where any party is absent without a valid reason for any Case Conference, the Court may exercise its powers under Order 9, Rule 4 of the Rules of Court 2021 to dismiss the action or give judgment for the claimant upon proof of service of the Originating Claim or Originating Application on the defendant.
 
@@ -834,7 +834,7 @@ _**“Documents-only” hearing of specified categories of civil applications**_
 
 (7) If the further hearing is fixed to be heard on a “documents-only” basis, the applicant (or parties, as may be appropriate) is to file written submissions and/or supplementary affidavit(s) supporting the orders he/she wishes to obtain and/or addressing directions issued by the Court at least 5 working days before his/her hearing date. The Court will proceed on the “paper” hearing date to consider all documents filed by the specified deadline, and proceed either to issue orders or to issue further directions and fix the application for a further “paper” hearing.
 
-(8) In the event the applicant does not file any document or comply with any outstanding directions by the specified deadline before any “paper” hearing date, the Court retains the discretion to strike off the application.
+(8) \[Deleted]
 
 (9) The following applications will be dealt with on a “documents-only” basis unless otherwise directed by the Court:
 
@@ -936,7 +936,7 @@ the applicant or his solicitor must inform the Court of the order for consolidat
 
 (4) In addition, applications should not contain alternative prayers when the alternative prayers sought in effect amount to distinct applications. In such a case, separate summonses should be filed. In contrast, the following is an example of an alternative prayer which may be permitted:
 
-> > > > In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the plaintiff to be ordered to amend those paragraphs of the Statement of Claim.
+> > > > In the defendant’s summons setting out a prayer for the striking out of certain paragraphs of the Statement of Claim, the defendant also includes an alternative prayer for the claimant to be ordered to amend those paragraphs of the Statement of Claim.
 
 (5) Any summons that is not in compliance with this Practice Direction may be rejected by the Registry of the State Courts.
 

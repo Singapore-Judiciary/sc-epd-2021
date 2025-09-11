@@ -90,7 +90,7 @@ Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby ap
 
 ### 88. Pagination of documents
 
-Every single page of a document _must_ be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right-hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. This is to facilitate hearings involving reference to both hard and soft copies of the same document.
 
 ### 89. Documents which cannot be converted into an electronic format <a href="#id-89-documents-which-cannot-be-converted-into-an-electronic-format" id="id-89-documents-which-cannot-be-converted-into-an-electronic-format"></a>
 

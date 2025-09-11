@@ -78,7 +78,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) For CCDCs, the CCDC Checklist is only required to be submitted before the scheduled Court event by the party applying for an adjournment.
 
-(6) Where the case involves a charge under the Protection from Harassment Act 2014, the Prosecution must file the checklist in Form 31 of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
+(6) Where the case involves a charge under the Protection from Harassment Act 2014, the Prosecution must file the checklist in [Form 31](https://github.com/opendocsg/opendoc-state-courts-practice-directions-2021/raw/master/Forms/Appendix%20A1/Form%2031-v2.pdf) of Appendix A1 to these Practice Directions on ICMS when all the charges are ready and before the accused person is called upon to indicate his plea.
 
 ### 120. Applications <a href="#id-120-applications" id="id-120-applications"></a>
 
@@ -90,7 +90,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 ### 121. Documents <a href="#id-121-documents" id="id-121-documents"></a>
 
-(1) Except for the Statement of Facts and Schedule of Offences, all documents must be electronically filed using the Portable Document Format (“**PDF**”).
+(1) Except for the Statement of Facts and Schedule of Offences, all documents must be electronically filed using the Portable Document Format (PDF).
 
 (2) The Statement of Facts and the Schedule of Offences may be filed in Word Document format (.doc or .docx).
 
@@ -100,7 +100,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) It is not necessary for documents to have a cover page or backing sheet.
 
-(6) Every page of a document must be paginated consecutively so that the pagination on the actual document corresponds with the pagination of the PDF document in the electronic case file, and the page number must be inserted at the centre top of the page.
+(6) All pages of a document (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version that is filed via the Integrated Case Management System (“ICMS”), the page number must be inserted at the top right-hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 (7) The Prosecution or defence must provide hard copies of documents that are electronically filed to the unrepresented litigant.
 
