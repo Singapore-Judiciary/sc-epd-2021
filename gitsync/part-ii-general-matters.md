@@ -16,7 +16,9 @@
 >
 > 15\. Precedence and preaudience of Senior Counsel
 >
-> 16\. Submissions and examination by leading and assisting counsel
+> 16\. Submissions and examination by leading and junior assisting counsel
+>
+> 16A. Submissions by leading and junior assisting counsel in Registrar’s Appeals
 >
 > 17\. Court dress
 >
@@ -188,21 +190,41 @@ is required to attend Court (including any hearing conducted by way of live vide
 
 (3) All other counsel, including those who appear on behalf of Senior Counsel, will continue to be heard in the order of their queue numbers in accordance with the current practice in the State Courts, subject to the Judge’s or Registrar’s overriding discretion.
 
-### 16. Submissions and examination by leading and assisting counsel <a href="#id-16-submissions-and-examination-by-leading-and-assisting-counsel" id="id-16-submissions-and-examination-by-leading-and-assisting-counsel"></a>
+### 16. Submissions and examination by leading and junior assisting counsel <a href="#id-16-submissions-and-examination-by-leading-and-assisting-counsel" id="id-16-submissions-and-examination-by-leading-and-assisting-counsel"></a>
 
-(1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
+(1) In the event that a party is represented by more than one counsel at a hearing, whether in open Court or in chambers, more than one counsel (including junior assisting counsel) may undertake part of the oral advocacy including the making of submissions and the questioning of witnesses.
 
-(2) If counsel have divided up their work such that it is necessary or desirable that submissions on different issues be made or certain portions of the examination, cross-examination or re-examination be conducted by different counsel, an application should be made to Court at the commencement of the trial or hearing for permission to do so. The following information should be provided to the Court for the purposes of the application:
+(1A) Lead counsel are strongly encouraged to give junior assisting counsel more opportunities for oral advocacy at a hearing. This contributes to their development as advocates and promotes renewal of the Bar. Lead counsel should apprise the client of the potential benefits of allocating certain advocacy tasks to junior assisting counsel, including reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore obtain instructions to conduct the proceedings in accordance with paragraph (2).&#x20;
+
+(2) If a party would like certain portions of the submissions, or examination, cross-examination or re-examination of witnesses to be conducted by different counsel in the same case, lead counsel should inform the Court as early as is practicable at a Case Conference, and in any event by no later than the commencement of the trial or hearing. The following information should be provided to the Court:
 
 > (a) the issues on which each counsel will be making submissions; and/or
 >
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-(3) If permission has been granted in accordance with paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which permission was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
+(3) If the Court has been informed of the allocation of oral advocacy tasks in accordance with paragraph (2), unless otherwise directed by the Court,
 
-(4) If the permission of the Court is not sought in accordance with paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
+> (a) counsel should ensure that he or she confines himself or herself to the issues or portions of evidence as allocated to him or her and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party; and&#x20;
+>
+> (b) counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.&#x20;
 
-(5) This Practice Direction shall apply to both civil and criminal proceedings.
+(4) Nothing in this Practice Direction detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+
+(5) This Practice Direction shall apply to both civil and criminal proceedings, but does not apply to any proceedings for which specific directions are provided in Practice Direction 16A.
+
+### 16A. Submissions by leading and junior assisting counsel in Registrar’s Appeals &#x20;
+
+(1) Notwithstanding Practice Direction 16, in the event that a party is represented by more than one counsel in the conduct of a Registrar’s Appeal, junior assisting counsel are ordinarily expected to make part of the submissions at any oral hearing.&#x20;
+
+(2) Lead counsel is to inform the Court at the start of the oral hearing which issues would be addressed by the lead counsel or the junior assisting counsel.&#x20;
+
+(3) Unless otherwise directed by the Court,&#x20;
+
+> (a) counsel should ensure that he or she confines himself or herself to the issues to be addressed and that there is no overlap in the issues being dealt with by different counsel for the same party; and &#x20;
+>
+> (b) counsel must not repeat, clarify or expand on any submissions that have been made by another counsel for the same party. &#x20;
+
+(4) Nothing in this Practice Direction detracts from the responsibility of lead counsel to ensure that all counsel making submissions are adequately supervised and able to handle the tasks assigned to them.
 
 ### 17. Court dress <a href="#id-17-court-dress" id="id-17-court-dress"></a>
 
@@ -316,9 +338,9 @@ _**Access to, and correction of, personal data contained in electronic cause boo
 
 _**Direction to Accountant-General for Payment In or Out of Court**_
 
-(5) For payments into Court, after the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the judgment or order of Court referenced therein to VITAL by email at [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+(5) For payments into Court, after the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the judgment or order of Court referenced therein to VITAL by email at [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
-(6) For payments out of Court, after the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the judgment or order of Court referenced therein to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on process for the release of the relevant moneys.
+(6) For payments out of Court, after the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the judgment or order of Court referenced therein to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on process for the release of the relevant moneys.
 
 ### 23. Publication of reports and comments on Court cases
 

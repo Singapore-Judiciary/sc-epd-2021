@@ -53,23 +53,25 @@
 >
 > (b) Practice Directions:
 >
-> > (i) 25 (Identification numbers and name to be stated in cause papers); and
+> > (i) 16 (Submissions and examination by leading and junior assisting counsel);&#x20;
 > >
-> > (ii) 26 (Citation of case numbers / new Court forum prefix);
+> > (ii) 25 (Identification numbers and name to be stated in cause papers);&#x20;
 > >
-> > (iii) 33 (Access to case file, inspection and taking copies of documents and conducting searches);
+> > (iii) 26 (Citation of case numbers / new Court forum prefix);
 > >
-> > (iv) 46 (Adjournment or vacation of hearings);
+> > (iv) 33 (Access to case file, inspection and taking copies of documents and conducting searches);
 > >
-> > (v) 50 (Filing of Distinct Applications in Separate Summonses);
+> > (v) 46 (Adjournment or vacation of hearings);
 > >
-> > (vi) 58 (Witnesses);
+> > (vi) 50 (Filing of Distinct Applications in Separate Summonses);
 > >
-> > (vii) 59 (Giving of evidence by person outside Singapore through live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter));
+> > (vii) 58 (Witnesses);
 > >
-> > (viii) 66 (Request for Court interpreters); and
+> > (viii) 59 (Giving of evidence by person outside Singapore through live video, live television or live audio link in any proceedings (other than proceedings in a criminal matter));
 > >
-> > (ix) 71 (Application for Court records for civil matters).
+> > (ix) 66 (Request for Court interpreters); and
+> >
+> > (x) 71 (Application for Court records for civil matters).
 
 ### 128. Community Justice and Tribunals System <a href="#id-128-community-justice-and-tribunals-system" id="id-128-community-justice-and-tribunals-system"></a>
 
