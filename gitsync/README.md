@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 1 Oct 2025'
+description: 'LAST UPDATED: 19 Jan 2026'
 ---
 
 # State Courts Practice Directions 2021

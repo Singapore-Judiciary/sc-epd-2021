@@ -46,11 +46,11 @@ In exercise of the powers conferred by Order 28, Rules 2 and 3 of the Rules of C
 
 > > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at [https://www.elitigation.sg](https://www.elitigation.sg/); and
 > >
-> > (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
+> > (b) appoints an Electronic Filing Service provider for this service whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 84. Appointment of agent to establish service bureau <a href="#id-84-appointment-of-agent-to-establish-service-bureau" id="id-84-appointment-of-agent-to-establish-service-bureau"></a>
 
-Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable.
+Pursuant to Order 28, Rule 5 of the Rules of Court 2021, the Registrar hereby appoints an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable, whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 85. Documents which must be filed, served, delivered and/or conveyed etc., using the Electronic Filing Service <a href="#id-85-documents-which-must-be-filed-served-delivered-andor-conveyed-etc-using-the-electronic-filing-ser" id="id-85-documents-which-must-be-filed-served-delivered-andor-conveyed-etc-using-the-electronic-filing-ser"></a>
 
